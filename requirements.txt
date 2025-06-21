@@ -1,0 +1,33 @@
+# Core Dependencies
+langchain>=0.3.0
+langchain-ollama>=0.1.0
+langchain-chroma>=0.1.0
+langchain-core>=0.3.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Vector Database
+chromadb>=0.5.0
+
+# Optional: Enhanced functionality
+# Uncomment as needed
+
+# For additional text processing
+# nltk>=3.8
+# spacy>=3.7.0
+
+# For web interface (future enhancement)
+# streamlit>=1.25.0
+# gradio>=3.40.0
+
+# For API development (future enhancement)
+# fastapi>=0.100.0
+# uvicorn>=0.23.0
+
+# For advanced monitoring (future enhancement)
+# prometheus-client>=0.17.0
+
+# For configuration management (future enhancement)
+# pydantic>=2.0.0
+# python-dotenv>=1.0.0
