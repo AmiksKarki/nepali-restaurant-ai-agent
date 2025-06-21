@@ -327,8 +327,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For questions or suggestions, please open an issue or contact the maintainer.
+For questions or suggestions, please open an issue or contact me via karkiamiks02@gmail.com.
 
 ---
 
-**Built with ❤️ using Local AI Technologies**
+**Built with ❤️**
